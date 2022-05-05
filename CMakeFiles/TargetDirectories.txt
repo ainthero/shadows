@@ -1,0 +1,3 @@
+/home/ainthero/CLionProjects/shadow-mapping/CMakeFiles/shadows.dir
+/home/ainthero/CLionProjects/shadow-mapping/CMakeFiles/edit_cache.dir
+/home/ainthero/CLionProjects/shadow-mapping/CMakeFiles/rebuild_cache.dir

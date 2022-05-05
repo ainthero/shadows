@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/shadows.dir/main.cpp.o CMakeFiles/shadows.dir/GLUtils.cpp.o CMakeFiles/shadows.dir/Shader.cpp.o CMakeFiles/shadows.dir/ObjModel.cpp.o CMakeFiles/shadows.dir/Camera.cpp.o CMakeFiles/shadows.dir/Light.cpp.o -o shadows  /usr/lib/libOpenGL.so -lglfw /usr/lib/libGLEW.so /usr/lib/libassimp.so.5.2.0 /usr/lib/libz.so /usr/lib/librt.so 
